@@ -2,7 +2,8 @@
 
 - :laughing: I'm Guangtong li
 - :microscope: Majore in computer science 
-- :book: I’m studying in Nanjing University of science and technology
+- :book: I’m studying in Nanjing University of science and technology  
+- :globe_with_meridians: visit my [blog](liguangtong.top)
 - :mailbox: Contact with me with [guangtong_li@qq.com](guangtong_li@qq.com)
 - :memo: Record things:
 > MacOS tools & skills (target to coding mostly)  
